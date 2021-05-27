@@ -1,0 +1,5 @@
+WDCPack Missing Lemon edition patch notes
+
+v1.0 (WDCPack v1.1-alpha with modifications)
+> All emeralds are now their original colour.
+> All diamonds are yellow (topaz).
