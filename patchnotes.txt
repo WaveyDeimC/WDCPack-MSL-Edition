@@ -3,3 +3,11 @@ WDCPack Missing Lemon edition patch notes
 v1.0 (WDCPack v1.1-alpha with modifications)
 > All emeralds are now their original colour.
 > All diamonds are yellow (topaz).
+
+v1.1 / The GUI update 1
+> WDCPack Missing Lemon Edition is now compatible with 1.17
+> Fixed Minecraft Realms Trial icon
+> Added credits
+> Added new icons to GUI
+> Added new splashes
+> Changed GUI for anvil, brewing stand, cartography table and crafting table
