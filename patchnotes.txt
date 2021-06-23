@@ -11,3 +11,12 @@ v1.1 / The GUI update 1
 > Added new icons to GUI
 > Added new splashes
 > Changed GUI for anvil, brewing stand, cartography table and crafting table
+
+v3.0-alpha / The cave update 1
+> Added a break animation
+> Emeralds now have the same texture as Diamond
+> Emeralds are now green
+> All ores are now one texture
+> All ores are now one colour
+> Updated credits
+	> Added Pwskar and Vontaxz to the Special thanks section
